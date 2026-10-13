@@ -1,0 +1,92 @@
+{
+  "lib/models/produk.dart": [
+    {
+      "file": "produk_1.png",
+      "lebar": 900,
+      "tinggi": 696,
+      "baris": "1-32"
+    }
+  ],
+  "lib/cubit/keranjang_cubit.dart": [
+    {
+      "file": "keranjang_cubit_1.png",
+      "lebar": 900,
+      "tinggi": 776,
+      "baris": "1-36"
+    }
+  ],
+  "lib/bloc/keranjang_bloc.dart": [
+    {
+      "file": "keranjang_bloc_1.png",
+      "lebar": 900,
+      "tinggi": 876,
+      "baris": "1-41"
+    },
+    {
+      "file": "keranjang_bloc_2.png",
+      "lebar": 900,
+      "tinggi": 376,
+      "baris": "42-57"
+    }
+  ],
+  "lib/pages/versi_cubit.dart": [
+    {
+      "file": "versi_cubit_1.png",
+      "lebar": 900,
+      "tinggi": 936,
+      "baris": "1-44"
+    },
+    {
+      "file": "versi_cubit_2.png",
+      "lebar": 900,
+      "tinggi": 856,
+      "baris": "45-84"
+    },
+    {
+      "file": "versi_cubit_3.png",
+      "lebar": 900,
+      "tinggi": 1096,
+      "baris": "85-136"
+    }
+  ],
+  "lib/pages/versi_bloc.dart": [
+    {
+      "file": "versi_bloc_1.png",
+      "lebar": 900,
+      "tinggi": 956,
+      "baris": "1-45"
+    },
+    {
+      "file": "versi_bloc_2.png",
+      "lebar": 900,
+      "tinggi": 936,
+      "baris": "46-89"
+    },
+    {
+      "file": "versi_bloc_3.png",
+      "lebar": 900,
+      "tinggi": 956,
+      "baris": "90-134"
+    },
+    {
+      "file": "versi_bloc_4.png",
+      "lebar": 900,
+      "tinggi": 456,
+      "baris": "135-154"
+    }
+  ],
+  "lib/main.dart": [
+    {
+      "file": "main_1.png",
+      "lebar": 900,
+      "tinggi": 696,
+      "baris": "1-32"
+    },
+    {
+      "file": "main_2.png",
+      "lebar": 900,
+      "tinggi": 776,
+      "baris": "33-68"
+    }
+  ]
+}
